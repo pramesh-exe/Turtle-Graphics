@@ -1,0 +1,8 @@
+forward 100
+turnright
+forward 200
+turnright 200
+forward 50
+turnleft 200
+reset
+circle 100
